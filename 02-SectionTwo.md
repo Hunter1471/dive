@@ -57,6 +57,16 @@
   4. Check  your dive computer or timer
   5. Signal "descend" and slowly deflate your BCD
   
+### Five point ascent
+  1. Signal up and confirm that your buddies are ready
+  2. Check your dive computer or depth gauge and timer
+  3. Look up and hold your BCD deflator hose
+    - Do not add air
+    - If you're neutrally buoyant, you only need to start swimming up gently
+  4. Ascend slowly- no faster than your dive computer's maximum rate (18m/60ft per minute)
+    - Release expanding air from your BCD
+  5. Look up, turn as you ascend and stay with your buddy
+  
 ### Airway control and breathing goals
   11. What are three tecniques used for airway control?
     - Inhale slowly if water enters
