@@ -49,7 +49,14 @@
     - Hold onto something and relax
     - Establish buoyancy with BCD
     - Proceed slower
-
+    
+### Five point descent
+  1. Confirm that your buddies are ready
+  2. Orient yourselves to something at the surface or underwater
+  3. Switch from your snorkel to your regulator
+  4. Check  your dive computer or timer
+  5. Signal "descend" and slowly deflate your BCD
+  
 ### Airway control and breathing goals
   11. What are three tecniques used for airway control?
     - Inhale slowly if water enters
